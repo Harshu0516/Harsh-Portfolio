@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: "Poppins", sans-serif;
@@ -68,6 +70,10 @@ body {
   transform:scale(1.08);
   box-shadow: 0 10px 25px rgba(255, 255, 255, 0.2);
 } 
+
+section{
+  transition: all 0.4s ease;
+}
 
 /* ABOUT SECTION */
 .about {
@@ -755,3 +761,4 @@ footer {
   }
 
 }
+
