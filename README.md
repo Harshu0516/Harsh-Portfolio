@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ## 🌐 Live Demo
 
-https://your-portfolio-link.vercel.app
+harsh-portfolio-sable.vercel.app
 
 ---
 
@@ -81,7 +81,7 @@ Simply open `index.html` in your browser.
 
 ### Harsh Pratap
 
-- 📧 Email: harshpratap@example.com
+- 📧 Email: harshpratap@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/harsh-pratap-82067024b/
 - 🖥️ GitHub: https://github.com/Harshu0516
 
