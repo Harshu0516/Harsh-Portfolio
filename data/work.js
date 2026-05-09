@@ -1,11 +1,11 @@
 const works=[
-    {
-        company_name:"May’26 – Present",
-        duration:"GSSoC",
-        job_title:"Open Source Conrtibutor | Intern",
-        job_desc:"Selected as 1 of contributors for GSSoc'26 to work based on a comprehensice technical proposal. Developed and Integrated into a production codebase of 100k+ line, utilizing Tech Stack to improve.",
-        jobs_skilss:"Python, JavaScript, HTML, CSS, Git, GitHub, Open Source Contribution",
-    },
+    // {
+    //     company_name:"May’26 – Present",
+    //     duration:"GSSoC",
+    //     job_title:"Open Source Conrtibutor | Intern",
+    //     job_desc:"Selected as 1 of contributors for GSSoc'26 to work based on a comprehensice technical proposal. Developed and Integrated into a production codebase of 100k+ line, utilizing Tech Stack to improve.",
+    //     jobs_skilss:"Python, JavaScript, HTML, CSS, Git, GitHub, Open Source Contribution",
+    // },
     {
         company_name:"Net Camp Solution <br/> Private Limited",
         duration:"Jan’24 – Mar’24",
